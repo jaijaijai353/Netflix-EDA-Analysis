@@ -35,23 +35,15 @@ Columns include:
 
 show_id
 
-type (Movie/TV Show)
-
 title
 
-director
-
-cast
-
-country
+language
 
 date_added
 
 release_year
 
 rating
-
-duration
 
 listed_in (genre)
 
